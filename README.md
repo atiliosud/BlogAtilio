@@ -5,7 +5,7 @@
 </p>
 <p>O projeto consiste em um sistem AspNetFramework MVC.</p>
 
-<p>Desenvolvido para fazer publicações de artigos ou qualquer assunto de seu interesse que vá agregar uma comunidade determinada.</p>
+<p>Desenvolvido para fazer publicações de artigos ou qualquer assunto de seu interesse que va agregar uma comunidade determinada.</p>
 
 ## Tecnologias Utilizadas
 
